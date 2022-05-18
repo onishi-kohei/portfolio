@@ -1,0 +1,7 @@
+node_modules
+*.log*
+.app/nuxt
+.app/nitro
+.app/cache
+.app/output
+.env
