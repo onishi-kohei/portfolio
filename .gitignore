@@ -1,7 +1,7 @@
-app/node_modules
+node_modules
 *.log*
-app/.nuxt
-app/.nitro
-app/.cache
-app/.output
-app/.env
+.nuxt
+.nitro
+.cache
+.output
+.env
