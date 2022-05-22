@@ -7,7 +7,7 @@
     "preview": "nuxt preview",
     "lint": "eslint --ext .ts,.js,.vue .",
     "lint:auto": "eslint --fix --ext .ts,.js,.vue .",
-    "format" : "prettier --write --ignore-path .gitignore './**/*.{js,jsx,ts,tsx,json,css}'"
+    "format": "prettier --write --ignore-path .gitignore './**/*.{js,jsx,ts,tsx,json,css}'"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^10.0.0",
