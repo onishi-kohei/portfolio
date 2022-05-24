@@ -1,7 +1,9 @@
 <template>
   <nav class="navigation">
     <div>
-      <BasesIconsHome />
+      <NuxtLink to="/">
+        <BasesIconsHome />
+      </NuxtLink>
     </div>
     <ul class="navigation__ul">
       <li class="navigation__li">
