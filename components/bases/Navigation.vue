@@ -8,7 +8,7 @@
         About
       </li>
       <li class="navigation__li">
-        <BasesIconsGithub />
+        <a href="https://github.com/onishi-kohei"><BasesIconsGithub /></a>
       </li>
     </ul>
   </nav>
