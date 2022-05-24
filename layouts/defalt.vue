@@ -2,6 +2,7 @@
 <template>
   <ContainersHeader />
   <slot />
+  <ContainersFooter />
 </template>
 <script lang="ts" setup>
 
