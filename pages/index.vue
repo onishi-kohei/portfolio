@@ -1,5 +1,5 @@
 <template>
-  <div>index</div>
+  <ContainersTop />
 </template>
 <script setup>
 definePageMeta({
