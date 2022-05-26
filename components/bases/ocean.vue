@@ -1,8 +1,8 @@
 <template>
   <div class="ocean">
-    <div class="ocean__title">
+    <h1 class="ocean__title">
       Kohei Onishi
-    </div>
+    </h1>
   </div>
   <svg
     class="ocean__wave"
@@ -35,8 +35,6 @@
     background: linear-gradient(60deg, rgb(58,154,217) 0%, rgb(41,171,164) 100%);
 
     &__title {
-      font-weight: 900;
-      font-size: 2rem;
       color: white;
     }
 
