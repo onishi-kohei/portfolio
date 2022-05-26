@@ -1,13 +1,13 @@
 <template>
-  <div class="top">
+  <div id="top" class="top">
     <BasesOcean />
   </div>
 </template>
 <style lang="scss" scoped>
 .top {
-  position: absolute;
+  position: relative;
   width :100%;
-  height : calc(75vh - 72px);
+  height : calc(70vh - 72px);
   background: #fff;
 }
 </style>
