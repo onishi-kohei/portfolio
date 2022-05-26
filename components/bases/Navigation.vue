@@ -7,7 +7,9 @@
     </div>
     <ul class="navigation__ul">
       <li class="navigation__li">
-        About
+        <NuxtLink to="/about">
+          About
+        </NuxtLink>
       </li>
       <li class="navigation__li">
         <a href="https://github.com/onishi-kohei"><BasesIconsGithub /></a>
