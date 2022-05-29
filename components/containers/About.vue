@@ -17,7 +17,7 @@
 
   &__container {
     margin:  0 auto;
-    width: fit-content;
+    max-width: 880px;
   }
 
   &__paragraph {
