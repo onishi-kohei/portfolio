@@ -2,7 +2,7 @@
   <div id="about" class="about">
     <div class="about__container">
       <h2>About</h2>
-      <div class="about_paragraph">
+      <div class="about__paragraph">
         <p>
           Hello, I'm Kohei Onishi, who lives in Japan.<br>
           I have been working as an engineer since 2017.
@@ -20,7 +20,7 @@
     width: fit-content;
   }
 
-  &_paragraph {
+  &__paragraph {
     margin-top: 8px;
   }
 
