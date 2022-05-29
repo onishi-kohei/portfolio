@@ -1,6 +1,6 @@
 {
   "node_modules/nuxt/dist/app/entry.mjs": {
-    "file": "entry-3f9fc4e1.mjs",
+    "file": "entry-93eb491b.mjs",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "dynamicImports": [
@@ -8,11 +8,11 @@
       "layouts/defalt.vue"
     ],
     "css": [
-      "entry.8447372e.css"
+      "entry.f97d76a3.css"
     ]
   },
   "pages/index.vue": {
-    "file": "index-d006cbac.mjs",
+    "file": "index-99e79d9b.mjs",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -20,14 +20,14 @@
     ]
   },
   "layouts/defalt.vue": {
-    "file": "defalt-2da8ac00.mjs",
+    "file": "defalt-cdbd0628.mjs",
     "src": "layouts/defalt.vue",
     "isDynamicEntry": true,
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs"
     ],
     "css": [
-      "defalt.664fe1da.css"
+      "defalt.e161e34f.css"
     ]
   }
 }
