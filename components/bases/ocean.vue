@@ -32,7 +32,7 @@
     align-items: center;
     width: 100%;
     height: 100%;
-    background: linear-gradient(60deg, rgb(58,154,217) 0%, rgb(41,171,164) 100%);
+    background: linear-gradient(60deg, rgb(0,0,0) 0%, rgb(242,205,113 ) 100%);
 
     &__title {
       color: white;
