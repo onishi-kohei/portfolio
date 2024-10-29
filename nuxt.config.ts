@@ -1,9 +1,12 @@
-import { defineNuxtConfig } from 'nuxt'
+import { defineNuxtConfig } from 'nuxt/config'
 
 export default defineNuxtConfig({
   app: {
-    baseURL: '/portfolio/'
+    baseURL: '/portfolio/',
+    head: {
+      link: [{ rel: 'icon', type: 'image/x-icon', href: '/project_name/favicon.ico' }]
+    }
   },
-  link: [{ rel: 'icon', type: 'image/x-icon', href: '/project_name/favicon.ico' }],
-  css: ['@/assets/css/reset.css']
+  css: ['@/assets/css/reset.css'],
+  compatibilityDate: '2024-10-29'
 })
