@@ -1,8 +1,12 @@
 <template>
-  <div id="top" class="top">
+  <div
+    id="top"
+    class="top"
+  >
     <BasesOcean />
   </div>
 </template>
+
 <style lang="scss" scoped>
 .top {
   position: relative;

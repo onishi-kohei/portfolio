@@ -3,8 +3,9 @@
   <ContainersAbout />
   <ContainersGrassGraph />
 </template>
+
 <script setup>
 definePageMeta({
-  layout: 'defalt'
+  layout: 'defalt',
 })
 </script>

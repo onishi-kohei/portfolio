@@ -1,5 +1,8 @@
 <template>
-  <div id="about" class="about">
+  <div
+    id="about"
+    class="about"
+  >
     <div class="about__container">
       <h2>About</h2>
       <div class="about__paragraph">
@@ -11,6 +14,7 @@
     </div>
   </div>
 </template>
+
 <style lang="scss" scoped>
 .about {
   padding: 18px;
@@ -24,4 +28,5 @@
     margin-top: 8px;
   }
 
-}</style>
+}
+</style>

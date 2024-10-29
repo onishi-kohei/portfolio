@@ -12,8 +12,10 @@
     </ul>
   </nav>
 </template>
+
 <script setup lang="ts">
 </script>
+
 <style lang="scss" scoped>
 .navigation {
   width : 100%;
@@ -36,5 +38,4 @@
 
   }
 }
-
 </style>
